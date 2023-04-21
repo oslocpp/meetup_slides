@@ -1,7 +1,7 @@
 # Slides for OsloCpp Meetups
 
-* 2022-11 [meetup][1] [slides][2] [videos][3] : More "monadic" operations for modern C++
 * 2023-04 [meetup][4] [slides][5] [videos][6] : Qt and C++: C++20, functional programming, timezones, WASM and coroutines
+* 2022-11 [meetup][1] [slides][2] [videos][3] : More "monadic" operations for modern C++
 
 [1]: https://www.meetup.com/ocppug/events/289063466/
 [2]: ./2022-11
